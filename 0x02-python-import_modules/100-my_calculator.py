@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    #  handle basic arithmetic operations based on the command-line arguments provided.
+    #handle basic arithmetic operations
+    #based on the command-line arguments provided.
     from calculator_1 import add, sub, mul, div
     import sys
 

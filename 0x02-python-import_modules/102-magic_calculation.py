@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 def magic_calculation(a, b):
-    # # This function implements logic to match a specific bytecode provided by Holberton School.
+    #This function implements logic to match a 
+    #specific bytecode provided by Holberton School.
     from magic_calculation_102 import add, sub
 
     if a < b:
